@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sud09&label=Profile%20views&color=0e75b6&style=flat" alt="sud09" /> </p>
 
-- 🔭 I’m currently working on **data analysis Projects**
+- 🔭 I’m currently working on **Data Analysis Projects**
 
 - 🌱 I’m currently learning **SQL, POWER BI, Python**
 
